@@ -1,0 +1,16 @@
+{
+  "name": "google-analytics-amd",
+  "version": "0.0.1",
+  "description": "AMD loading for google analytics",
+  "main": "src/main.js",
+  "keywords": [
+    "amd",
+    "requirejs",
+    "google",
+    "analytics"
+  ],
+  "authors": [
+    "Daniel Wilkinson <daniel.wilkinson@lightmaker.com>"
+  ],
+  "license": "MIT"
+}
