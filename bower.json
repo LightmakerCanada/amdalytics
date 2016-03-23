@@ -1,5 +1,5 @@
 {
-  "name": "google-analytics-amd",
+  "name": "amdalytics",
   "description": "AMD loading for google analytics",
   "main": "src/main.js",
   "keywords": [
