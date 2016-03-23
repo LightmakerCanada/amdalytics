@@ -1,6 +1,5 @@
 {
   "name": "google-analytics-amd",
-  "version": "0.0.1",
   "description": "AMD loading for google analytics",
   "main": "src/main.js",
   "keywords": [
